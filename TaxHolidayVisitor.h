@@ -7,6 +7,9 @@
 #include "LiquorVisitor.h"
 class TaxHolidayVisitor :
 	public Visitor
+	,public NecessityVisitor
+	,public TobaccoVisitor
+	,public LiquorVisitor
 {
 public:
 

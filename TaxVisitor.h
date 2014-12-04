@@ -5,6 +5,9 @@
 #include "TobaccoVisitor.h"
 #include "LiquorVisitor.h"
 class TaxVisitor :public Visitor
+	,  public NecessityVisitor
+	, public TobaccoVisitor
+	, public LiquorVisitor
 {
 public:
 
