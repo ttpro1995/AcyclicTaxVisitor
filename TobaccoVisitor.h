@@ -1,5 +1,5 @@
 #pragma once
-#include "Tobacco.h"
+class Tobacco;
 class TobaccoVisitor
 {
 public:

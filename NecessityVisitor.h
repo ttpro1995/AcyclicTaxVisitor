@@ -1,5 +1,6 @@
 #pragma once
-#include "Necessity.h"
+
+class Necessity;
 class NecessityVisitor
 {
 public:

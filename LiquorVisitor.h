@@ -1,7 +1,7 @@
 #pragma once
-#include "Liquor.h"
 
 
+class Liquor;
 class LiquorVisitor
 {
 public:

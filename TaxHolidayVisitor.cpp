@@ -1,5 +1,7 @@
 #include "TaxHolidayVisitor.h"
-
+#include"Necessity.h"
+#include "Liquor.h"
+#include "Tobacco.h"
 //Group 9 - APCS 13ctt - a example of visitor 
 
 

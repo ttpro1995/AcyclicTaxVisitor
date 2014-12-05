@@ -1,5 +1,7 @@
 //Group 9 - APCS 13ctt - a example of visitor 
 #include "Necessity.h"
+#include "Liquor.h"
+#include "Tobacco.h"
 #include <iostream>
 using namespace std;
 #include "TaxVisitor.h"
